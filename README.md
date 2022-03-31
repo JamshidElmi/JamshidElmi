@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamshidelmi" alt="jamshidelmi" /></a> </p>
 
-- 🔭 I’m currently working on [Inventory information management system](https://github.com/JamshidElmi/QuickAccount)
+- 🔭 I’m currently working on [Inventory management information system](https://github.com/JamshidElmi/QuickAccount)
 
 - 🌱 I’m currently learning **JavaScript and its libraries**
 
